@@ -20,11 +20,10 @@ Paso 1: Clonar el repositorio
 Abre Visual Studio y ejecuta: git clone https://github.com/papivic8/ExamenUnidad4y5_Patrones_LopezHernandezVictorManuel
 
 Paso 2: Entrar a la carpeta del proyecto
-ExamenUnidad4y5_Patrones_LopezHernandezVictorManuel
+ExaDecorador de ExamenUnidad4y5_Patrones_LopezHernandezVictorManuel
 
 Paso 3: Compilar y ejecutar el programa
 
-Archivo .cs:
-csc Program.cs
-Program.exe
+Archivos .cs
+Program.cs
 
