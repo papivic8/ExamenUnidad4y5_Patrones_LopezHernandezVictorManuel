@@ -8,7 +8,6 @@
 
 Este proyecto lo que hace es simular un sistema bancario, en el cual tienes diferentes opciones como el poder abrir una cuenta de nomina o de ahorro, tener una tarjeta de credito, el tener un limite de retiro diario y las funciones mas basicas que se tiene en un banco como el poder retirar e ingresar dinero y visualizar la informacion de tu cuenta de banco.
 
-### Ejecución 
 
 # Ejecución
 
